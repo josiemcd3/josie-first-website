@@ -16,7 +16,7 @@ date: 2019-01-20
 - 🌍 [South America](#)
 - 🌏 [Asia](#)
 - 🌍 [Africa](#)
-- 🌏 [Europe](#)
+- 🌏 [Europe](europe.md)
 - 🌏 [Oceania](#)
 - 🌍 [Antarctica](#)
 
