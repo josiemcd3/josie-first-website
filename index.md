@@ -3,22 +3,15 @@ title: Welcome to el blog de josefina
 date: 2019-01-20
 ---
 
-*Exploring the world, one journey at a time.*
-
----
-
-![Travel](https://source.unsplash.com/1600x900/?travel,nature)
-
-## 🌍 Welcome to My Travel Stories
+## 🌍 My Travel Stories
 
 ### 🗺️ Explore by Continent:
-- 🌎 [North America](#)
-- 🌍 [South America](#)
-- 🌏 [Asia](#)
-- 🌍 [Africa](#)
+- 🌎 [North America](north_america.md)
+- 🌍 [South America](south_america.md)
+- 🌏 [Asia](asia.md)
+- 🌍 [Africa](africa.md)
 - 🌏 [Europe](europe.md)
-- 🌏 [Oceania](#)
-- 🌍 [Antarctica](#)
+- 🌏 [Oceania](oceania.md)
 
 ---
 
