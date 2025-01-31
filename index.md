@@ -4,12 +4,12 @@
 ---
 ### 🗺️ Explore by Continent:
 <span style="display: inline-block; margin-right: 20px;">
-  <a href="asia.md"><img src="asia.jpg" alt="asia" style="width: 100px; height: 100px;"></a>
+  <a href="asia.md"><img src="asia.jpg" alt="asia" style="width: 400px; height: 150px;"></a>
 </span>
 <span style="display: inline-block; margin-right: 20px;">
-  <a href="europe.md"><img src="eu.png" alt="europe" style="width: 100px; height: 100px;"></a>
+  <a href="europe.md"><img src="eu.png" alt="europe" style="width: 400px; height: 150px;"></a>
 </span>
 <span style="display: inline-block;">
-  <a href="oceania.md"><img src="aus.jpg" alt="oceania" style="width: 100px; height: 100px;"></a>
+  <a href="oceania.md"><img src="aus.jpg" alt="oceania" style="width: 400px; height: 150px;"></a>
 </span>
 
