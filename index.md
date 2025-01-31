@@ -9,6 +9,5 @@
 - 🌍 [Africa](africa.md)
 - [![Europe](eu.png)](europe.md)  
 - 🌏 [Oceania](oceania.md)
-
 ---
 
