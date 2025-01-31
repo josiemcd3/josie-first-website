@@ -9,19 +9,16 @@ date: 2019-01-20
 
 ![Travel](https://source.unsplash.com/1600x900/?travel,nature)
 
-## 🌍 Welcome to My Travel Blog
+## 🌍 Welcome to My Travel Stories
 
-Join me as I share breathtaking landscapes, hidden gems, and unforgettable adventures from around the world.
-
-### 📍 Latest Destinations:
-- **Bali, Indonesia** – Surf, sunsets, and serenity.
-- **Kyoto, Japan** – Temples, tea, and timeless beauty.
-- **Santorini, Greece** – Whitewashed dreams by the Aegean.
-
-### 📝 Featured Stories:
-📖 [Chasing Sunsets in Santorini](#)  
-📖 [A Foodie's Guide to Tokyo](#)  
-📖 [Solo Backpacking in Patagonia](#)  
+### 🗺️ Explore by Continent:
+- 🌎 [North America](#)
+- 🌍 [South America](#)
+- 🌏 [Asia](#)
+- 🌍 [Africa](#)
+- 🌏 [Europe](#)
+- 🌏 [Oceania](#)
+- 🌍 [Antarctica](#)
 
 ---
 
