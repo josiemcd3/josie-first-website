@@ -10,7 +10,7 @@
   <a href="europe.md"><img src="eu.png" alt="europe"></a>
 </span>
 <span style="display: inline-block;">
-  🌏 <a href="oceania.md">Oceania</a>
+  🌏 <a href="oceania.md"><img src="aus.jpg" alt="oceania"></a>
 </span>
 ---
 
