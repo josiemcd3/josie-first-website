@@ -15,5 +15,3 @@ date: 2019-01-20
 
 ---
 
-📩 *Subscribe for travel updates and tips!*
-
