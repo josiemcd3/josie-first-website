@@ -7,7 +7,7 @@
 - 🌍 [South America](south_america.md)
 - 🌏 [Asia](asia.md)
 - 🌍 [Africa](africa.md)
-- [![Europe](eu.png)](europe.md)  
+- [Europe](europe.md)  
 - 🌏 [Oceania](oceania.md)
 ---
 
