@@ -12,7 +12,9 @@
 <span style="display: inline-block;">
   <a href="oceania.md"><img src="aus.jpg" alt="oceania" style="width: 250px; height: 150px;"></a>
 </span>
+
 ---
+
 ### 🗺️ Future Plans:
 
 - [togo](togo.md)
